@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553210118 source:/home/alumno/Documentos/Detter Sergio/programacion_1_laboratorio_1-master/Clase_02/ejercicio/clase2/main.c
+	<stdio.h>
+	<stdlib.h>
+
