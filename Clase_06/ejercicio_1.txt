@@ -1,0 +1,30 @@
+Crear un programa que le pida 10 numeros al usuario y los guarde en un array.
+
+1) Analizar el array e imprimir:
+Promedio
+Maximo
+Minimo
+
+2) Pedirle al usuario que ingrese un numero e indicar si el mismo esta o no en el array.
+
+3) Imprimir el array ordenado de mayor a menor.
+
+int calcularPromedio(int a[], int longitud, float *buffer)
+{
+   int r=-1;
+   int i;
+   int suma=0;
+   int promedio;
+
+   if(a != null)
+   {
+        r=1;
+        for(i=0; i < longitud; i++)
+        {
+        suma= a[i] + suma;
+        }
+        promedio= suma/longitud;
+   }
+   *buffer= promedio;
+   return r;
+}
