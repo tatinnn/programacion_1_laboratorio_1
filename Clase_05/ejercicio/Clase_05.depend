@@ -60,3 +60,16 @@
 	<stdlib.h>
 	<time.h>
 
+1554330286 source:/home/alumno/Documentos/Detter/programacion_1_laboratorio_1/Clase_05/ejercicio/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1554330286 /home/alumno/Documentos/Detter/programacion_1_laboratorio_1/Clase_05/ejercicio/utn.h
+
+1554330286 source:/home/alumno/Documentos/Detter/programacion_1_laboratorio_1/Clase_05/ejercicio/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

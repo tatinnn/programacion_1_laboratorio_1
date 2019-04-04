@@ -1,0 +1,10 @@
+Crear un programa que le pida 10 numeros al usuario y los guarde en un array.
+
+1) Analizar el array e imprimir:
+Promedio
+Maximo
+Minimo
+
+2) Pedirle al usuario que ingrese un numero e indicar si el mismo esta o no en el array.
+
+3) Imprimir el array ordenado de mayor a menor.
