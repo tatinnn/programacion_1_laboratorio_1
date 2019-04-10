@@ -1,0 +1,23 @@
+ejercicio_1
+
+En el caso hipotetico de no contar con librerias de funciones preexistentes,
+vamos a crear funciones "falsas" que devuelvan los resultados buscados para 
+poder trabajar en otras funciones que llaman a las anteriores. En este caso, para poder usar getNumber (la cual primero llama a getString y isValidNumber)
+
+
+ejercicio_2
+
+a partir del ej 1, desarrollamos la funcion getString.
+*a terminar en casa
+
+
+
+
+
+
+
+
+
+**************
+strcpy = malo
+strncpy = bueno
