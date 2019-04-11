@@ -22,9 +22,24 @@ int getString (char* pResultado, char *msg, char *msgError, int minimo, int maxi
     return 0;
 }
 
-int isValidNumber (char *cadena); //falsa validacion
+int isValidNumber (char *cadena);
 {
-    return 1;
+    int retorno = 1;
+    int i;
+    if(cadena[i] == '-')
+    {
+        i++
+    }
+    for(;cadena[i]!='\0';i++)
+    {
+
+        if(cadena[i] < 0 || cadena[i] > '9')
+        {
+        retorno = 0;
+        break;
+        }
+    }
+    return retorno;
 }
 
 int getNumber (int *resultado, char *msg, char *msgError, int minimo, int maximo, int reintento)
