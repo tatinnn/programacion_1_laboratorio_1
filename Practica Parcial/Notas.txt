@@ -1,0 +1,8 @@
+2doPrototipoParcial
+
+es una parte del parcial (autores) resuelta 
+por un compañero (dijo que le falta el main)
+
+--------------------
+
+
